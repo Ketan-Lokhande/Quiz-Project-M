@@ -41,6 +41,7 @@ public class AllResult {
 		{
 			e.printStackTrace();
 		}
+		(Ak boss)
 	}
 
 }
